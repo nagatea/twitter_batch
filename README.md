@@ -1,0 +1,2 @@
+# twitter_mention_batch
+TwitterのREST APIを定期実行してbotのmentionに逐次対応するgemを作る
